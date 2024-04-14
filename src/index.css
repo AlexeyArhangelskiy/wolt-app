@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Nunito, sans-serif;
+  background: rgb(0, 194, 232);
+}
+
+#root {
+  padding: 0 20px;
+}

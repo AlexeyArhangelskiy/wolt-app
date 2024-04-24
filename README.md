@@ -1,6 +1,6 @@
 # Wolt summer intern assignment
 
-This app was build as part of the application process for the Wolt frontend engineering summer internship. https://github.com/woltapp/engineering-internship-2024
+
 
 ## Run the app
 
